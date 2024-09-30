@@ -6,7 +6,7 @@
  * }
  */
 import {ListNode} from "../utils/ListNode.js";
-import {mergeTwoLists} from "./21. mergeTwoLists.js"
+import {mergeTwoLists} from "../1-100/21. mergeTwoLists.js"
 
 /**
  * @param {ListNode} head
